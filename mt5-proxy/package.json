@@ -1,0 +1,10 @@
+{
+  "name": "mt5-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {}
+}
